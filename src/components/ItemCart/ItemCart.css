@@ -1,0 +1,29 @@
+.ItemCart-container {
+    display: flex;
+}
+
+.ItemCart-divimg {
+    width: 500px;
+}
+
+.ItemCart-divimg img {
+    width: 100%;
+}
+
+.ItemCart-info {
+    font-size: 2rem;
+    padding: 0 1rem;
+}
+
+.btn-delete {
+    padding: .5rem 1rem;
+    background-color: #f00;
+    color: #fff;
+    border-radius: .1rem;
+    border: 0px;
+    cursor: pointer;
+}
+
+.btn-delete:active {
+    background-color: #ee0000a8;
+}
